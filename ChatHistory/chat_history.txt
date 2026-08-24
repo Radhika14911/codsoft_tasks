@@ -1,0 +1,29 @@
+Radhika: hello
+Bot: Hello Radhika! How can I help you today?
+Radhika: time
+Bot: Current Time: 21:40:59
+Radhika: date
+Bot: Today's Date: 22-08-2026
+Radhika: joke
+Bot: Why do programmers hate nature? It has too many bugs.
+Radhika: help
+Bot: 
+Available Commands:
+
+hello
+hi
+hey
+good morning
+good night
+your name
+about
+date
+time
+joke
+calculator
+thanks
+exit
+
+Radhika: calculator
+Bot: Result = 15.0
+Radhika: exit
